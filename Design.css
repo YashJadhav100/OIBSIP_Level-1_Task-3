@@ -1,0 +1,50 @@
+ body {
+ font-family: Arial, sans-serif;
+  background-color: mintcream;
+  position: static;
+}
+
+h1 {
+  text-align: center;
+  background-color: grey;
+}
+
+form {
+  margin: 0 auto;
+  width: 50%;
+  padding: 40px;
+  background-color: bisque;
+  border-radius: 6px;
+  box-shadow: 0px 0px 10px black;
+}
+
+input[type="number"] {
+  width: 60%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+select {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 18px;
+  text-align: center;
+  background-color: grey;
+}
